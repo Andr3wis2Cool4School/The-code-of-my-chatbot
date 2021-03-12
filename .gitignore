@@ -1,10 +1,3 @@
 .DS_Store
 .vscode
-data/RC_2015-01
-data/2015-01.db
-redditinstance.py
-data/subreddit_Python.csv
-data/sub1.csv
-data/sub2.csv
-data/train-balanced-sarcasm.csv
-
+data
