@@ -3,3 +3,7 @@
 data
 .ipynb_checkpoints
 __pycache__
+finaldata.csv
+word2vec/.vector_cache
+seq2seqwithattention/data
+seq2seqwithattention/save_dir
